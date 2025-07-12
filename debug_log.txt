@@ -1,0 +1,35 @@
+Array
+(
+    [name] => aditi
+    [email] => info@gmail.com
+    [subject] => j
+    [message] => hggj
+)
+Array
+(
+    [name] => SHALINI KUMARI
+    [email] => kumarishalini7864@gmail.com
+    [subject] => To Find a Job
+    [message] => I need a Job.
+)
+Array
+(
+    [name] => Aarti Singh 
+    [email] => aarti@gmail.com
+    [subject] => job
+    [message] => dafssf
+)
+Array
+(
+    [name] => aditi
+    [email] => kumarishalini7864@gmail.com
+    [subject] => job
+    [message] => hi
+)
+Array
+(
+    [name] => SHALINI KUMARI
+    [email] => info@gmail.com
+    [subject] => j
+    [message] => sdaad
+)
