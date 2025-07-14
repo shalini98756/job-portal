@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     if ($user) {
         $_SESSION['user'] = $user['username'];
-        header("Location: dashboard.php");
+        header("Location: index.html");
         exit();
     } else {
         echo "Invalid username or password.";
